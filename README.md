@@ -1,2 +1,2 @@
-# Random_Number_Generator_with_React.js
+# SampleReactApp
 Created with CodeSandbox
